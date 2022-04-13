@@ -1,10 +1,17 @@
 \id FRT
+\periph Title Page
+\mt1 Šventasis Raštas
+\mt3 arba
+\mt1 Biblija
+\pc Tikinčiųjų paveldo vertimas
+\p
+\pc Believers' Bible Society
 \h Įvadas
 \toc1 Įvadas
 \toc2 Įvadas
 \toc3 Įvadas
 \mt1 Įvadas
-\ip „Bet be tikėjimo neįmanoma \add jam\add* patikti, nes tas, kuris ateina pas Dievą, privalo tikėti, kad jis yra, ir \add kad\add* jis atsilygina tiems, kurie jo stropiai ieško.“ (Laiškas hebrajams 11:6)
+\ip „Bet be tikėjimo neįmanoma \add jam\add* patikti, nes tas, kuris ateina pas Dievą, privalo tikėti, kad jis yra, ir \add kad\add* jis atsilygina tiems, kurie jo stropiai ieško.“ (Laiškas hebrajams 11:6)
 \is1 Parengtinis „Tikinčiųjų paveldo vertimas“
 \ip Kol kas čia pateikiamas tekstas tėra Šventojo Rašto vertimo parengtinė versija. Tekstas yra dažnai koreguojamas ir laukia išsamaus redagavimo. Trūkstamos eilutės bus pateiktos tada, kai jos bus išverstos. Pasiūlymus dėl patobulinimų bei pastabas apie rašybos ir kitas klaidas galima siųsti adresu LTBiblija{eta}protonmail.com.
 \is1 Autorystės teisės (LT)
@@ -93,7 +100,7 @@
 \tr \tc1 PT \tc2 – Priimtasis tekstas, -jame -e, -ojo -o (= Textus Receptus)
 \tr \tc1 ST \tc2 – Senasis Testamentas, -e, -o
 \tr \tc1 šnek. \tc2 – šnekamosios kalbos žodis ar reikšmė
-\tr \tc1 t. \tc2 – tiesiogiai, tiesiogiai išvertus (tai reiškia perteikiant originalo kalbos elementus sintaksiniu, morfologiniu, žodžio arba frazės lygmeniu) 
+\tr \tc1 t. \tc2 – tiesiogiai, tiesiogiai išvertus (tai reiškia perteikiant originalo kalbos elementus sintaksiniu, morfologiniu, žodžio arba frazės lygmeniu)
 \tr \tc1 t. y. \tc2 – tai yra
 \tr \tc1 TR \tc2 – Textus Receptus (lot.), t. y. Priimtasis tekstas, t .y. ST ir NT tekstai, iš kurių buvo išverstas šis vertimas
 \tr \tc1 trad. \tc2 – tradiciškai
@@ -101,6 +108,6 @@
 \tr \tc1 viet. \tc2 – vietininkas
 \tr \tc1 vksm. \tc2 – veiksmažodis
 \tr \tc1 vns. \tc2 – vienaskaita, vienaskaitinis
-\tr \tc1 žr. \tc2 – žiūrėk 
+\tr \tc1 žr. \tc2 – žiūrėk
 \tr \tc1 * \tc2 – kai prie esamojo laiko vksm., reiškia, kad gr. k. vksm. yra būtojo laiko, o kai prie būtojo laiko vksm., reiškia, kad gr. k. vksm. yra esamojo laiko.
 \tr \tc1 ⌜…⌝ \tc2 – tekstas perkeltas iš ankstesnės ar vėlesnės eilutės tam, kad lietuviškas tekstas būtų tikslesnis ir (arba) suprantamesnis.
