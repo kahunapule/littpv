@@ -1,19 +1,16 @@
 \id FRT
-\periph Title Page
-\mt1 Šventasis Raštas
-\mt3 arba
-\mt1 Biblija
-\pc Tikinčiųjų paveldo vertimas
-\p
-\pc Believers' Bible Society
-\h Įvadas
-\toc1 Įvadas
-\toc2 Įvadas
+\periph Title Page|id="title"
+\mt1 The Holy Scripture
+\mt3 or
+\mt1 The Bible
+\pc ____ Translation
+\pc
 \toc3 Įvadas
+\
 \mt1 Įvadas
 \ip „Bet be tikėjimo neįmanoma \add jam\add* patikti, nes tas, kuris ateina pas Dievą, privalo tikėti, kad jis yra, ir \add kad\add* jis atsilygina tiems, kurie jo stropiai ieško.“ (Laiškas hebrajams 11:6)
 \is1 Parengtinis „Tikinčiųjų paveldo vertimas“
-\ip Kol kas čia pateikiamas tekstas tėra Šventojo Rašto vertimo parengtinė versija. Tekstas yra dažnai koreguojamas ir laukia išsamaus redagavimo. Trūkstamos eilutės bus pateiktos tada, kai jos bus išverstos. Pasiūlymus dėl patobulinimų bei pastabas apie rašybos ir kitas klaidas galima siųsti adresu LTBiblija{eta}protonmail.com.
+\ip Kol kas čia pateikiamas tekstas tra Šventojo Rašto vertimo parengtinė versija. Tekstas yra dažnai koreguojamas ir laukia išsamaus redagavimo. Trūkstamos eilutės bus pateiktos tada, kai jos bus išverstos. Pasiūlymus dėl patobulinimų bei pastabas apie rašybos ir kitas klaidas galima siųsti adresu LTBiblija{eta}protonmail.com.
 \is1 Autorystės teisės (LT)
 \ip Bet kas gali trumpai cituoti šio vertimo tekstą, bet prašome    rodyti sutrumpinimą „TPV“ po citatos (galite įtraukti ir leidimo metus). Pavyzdžiai:
 \ipi Nes Dievas taip mylėjo pasaulį, jog davė savo viengimį Sūnų, kad kiekvienas, kur is juo tiki, nepražūtų, bet turėtų amžiną gyvenimą. (Jono 3:16 TPV)
@@ -83,6 +80,7 @@
 \ip Mato evangelijos 13-to skyriaus 24–30 eilutės bei to pačio skyriaus 36–43 eilutės ir Antro laiško Timotiejui trečio skyriaus 1–13 eilutės. (Kabliataškis skiria nuorodas iš skirtingų knygų (retkarčiais ir skyrių), jei kitur nuorodoje jau yra kablelis. Šis pavyzdys pateiktas tam, kad būtų galima palyginti Biblijos nuorodų skyrybą šioje knygoje su šiuo metu paplitusia Biblijos nuorodų skyryba, kuris atrodo šitaip: Mt 13, 24–30. 36–43; 2  Tim 3, 1–13.)
 \ip Flm 22
 \ip Laiško Filemonui 22 eilutė.
+\ip
 \is2 Sutrumpinimai ir santrumpos.
 \tr \tc1 dgs. \tc2 – daugiskaita, daugiskaitinis
 \tr \tc1 DLKŽ \tc2 – Dabartinės lietuvių kalbos žodynas
