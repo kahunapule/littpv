@@ -1,20 +1,19 @@
 \id FRT
 \periph Title Page|id="title"
-\mt1 The Holy Scripture
-\mt3 or
-\mt1 The Bible
-\pc ____ Translation
-\pc
-\toc3 Įvadas
-\
-\mt1 Įvadas
-\ip „Bet be tikėjimo neįmanoma \add jam\add* patikti, nes tas, kuris ateina pas Dievą, privalo tikėti, kad jis yra, ir \add kad\add* jis atsilygina tiems, kurie jo stropiai ieško.“ (Laiškas hebrajams 11:6)
+\mt1 Šventasis Raštas
+\mt3 arba
+\mt1 Biblija
+\mt3 Tikinčiųjų paveldo vertimas
+\b
+\mt2 Įvadas
+\ip „Bet be tikėjimo neįmanoma \add jam\add* patikti, nes tas, kuris ateina pas Dievą, privalo tikėti, kad jis yra, ir \add kad\add* jis atsilygina tiems, kurie jo stropiai ieško.“ (Laiškas hebrajams 11:6)
 \is1 Parengtinis „Tikinčiųjų paveldo vertimas“
 \ip Kol kas čia pateikiamas tekstas tra Šventojo Rašto vertimo parengtinė versija. Tekstas yra dažnai koreguojamas ir laukia išsamaus redagavimo. Trūkstamos eilutės bus pateiktos tada, kai jos bus išverstos. Pasiūlymus dėl patobulinimų bei pastabas apie rašybos ir kitas klaidas galima siųsti adresu LTBiblija{eta}protonmail.com.
+\periph Publication Data|id=pubdata
 \is1 Autorystės teisės (LT)
-\ip Bet kas gali trumpai cituoti šio vertimo tekstą, bet prašome    rodyti sutrumpinimą „TPV“ po citatos (galite įtraukti ir leidimo metus). Pavyzdžiai:
-\ipi Nes Dievas taip mylėjo pasaulį, jog davė savo viengimį Sūnų, kad kiekvienas, kur is juo tiki, nepražūtų, bet turėtų amžiną gyvenimą. (Jono 3:16 TPV)
-\ipi Jono 3:16 Nes Dievas taip mylėjo pasaulį, jog davė savo viengimį Sūnų, kad kiekvienas, kuris juo tiki, nepražūtų, bet turėtų amžiną gyvenimą. (TPV2022)
+\ip Bet kas gali trumpai cituoti šio vertimo tekstą, bet prašome rodyti sutrumpinimą „TPV“ po citatos (galite įtraukti ir leidimo metus). Pavyzdžiai:
+\ipq Nes Dievas taip mylėjo pasaulį, jog davė savo viengimį Sūnų, kad kiekvienas, kur is juo tiki, nepražūtų, bet turėtų amžiną gyvenimą. (Jono 3:16 TPV)
+\ipq Jono 3:16 Nes Dievas taip mylėjo pasaulį, jog davė savo viengimį Sūnų, kad kiekvienas, kuris juo tiki, nepražūtų, bet turėtų amžiną gyvenimą. (TPV2022)
 \is1 Dėl pavadinimo ir jo sutrumpinimo naudojimo.
 \ip Maloniai prašome, kad jeigu bet kokius pakeitimus darysite šiam darbui, kad išleistumėte savo versiją su kitu pavadinimu ir nenaudotumėte nei pavadinimo „Tikinčiųjų paveldo vertimas“ nei sutrumpinimo „TPV“. Dėkojame.
 \is1 Licencija
@@ -24,19 +23,19 @@
 \is2 Jūs galite:
 \ili \bd Dalintis\bd* — kopijuoti ir platinti medžiagą bet kokiomis priemonėmis ir formatais.
 \ili \bd Adaptuoti\bd* — remiksuoti, perdirbti ar kurti šios medžiagos pagrindu bet kokiais tikslais, net ir komerciniais.
-\ip Ir
-\ili Licenciaras negali atšaukti šių laisvių, jei Jūs laikysitės licencijos sąlygų.
 \is2 Šiomis sąlygomis:
 \ili \bd Priskyrimas\bd* [vertėjo(-ų), autoriaus(-ių) pripažinimas] — Privalote nurodyti autorystę, įdėti nuorodą į licenciją bei nurodyti, ar atlikote pakeitimų. Galite tai daryti bet kokiu protingumo kriterijus atitinkančiu būdu, tačiau ne tokiu būdu, kuris sudarytų įspūdį, kad licenciaras pritaria Jūsų veiksmams ar tam, kaip panaudotoje objektą.
 \ili \bd Analogiškas platinimas\bd* — Jei remiksuojate, perdirbate ar kuriate šios medžiagos pagrindu, tokios veiklos rezultatus privalote platinti panaudodami tą pačią licenciją, kuri naudota originalui.
 \ili \bd Jokių papildomų apribojimų\bd* — Negalite taikyti teisinių priemonių nei technologinių priemonių, kurios teisiškai apribotų kitų galimybes daryti tai, ką licencija leidžia.
+\b
+\ip Licenciaras negali atšaukti šių laisvių, jei Jūs laikysitės licencijos sąlygų.
 \is1 Papildomos žinios iš „eBible.org“
 \ip Vaizdinės priemonės pateiktos kartu su Šventuoju Raštu ir kitais šioje interneto svetainėje skelbiamais dokumentais yra licencijuojamos vien tik naudojimui su čia skelbiamais Šventuoju Raštu ir dokumentais. Norint naudoti kitiems tikslams, susisiekite su atitinkamais autorystės teisių savininkais.
 \ip Atkreipiame Jūsų dėmesį į tai, kad be anksčiau pateiktų taisyklių, kas užsiima Dievo Žodžio [vertimų] pakeitimais ir pritaikymais turi didžiulę atsakomybę būti ištikimam Dievo Žodžiui. Žr. Apreiškimo kn. 22:18-19.
 \is1 Copyright (EN)
 \ip Anyone may quote portions of this translation, but we ask that you display the abbreviation „TPV“ after the cited text (you may also include the year you accessed the text on the internet). Examples:
-\ipi Nes Dievas taip mylėjo pasaulį, jog davė savo viengimį Sūnų, kad kiekvienas, kuris juo tiki, nepražūtų, bet turėtų amžiną gyvenimą. (Jono 3:16 TPV)
-\ipi Jono 3:16 Nes Dievas taip mylėjo pasaulį, jog davė savo viengimį Sūnų, kad kiekvienas, kuris juo tiki, nepražūtų, bet turėtų amžiną gyvenimą. (TPV2022)
+\ipq Nes Dievas taip mylėjo pasaulį, jog davė savo viengimį Sūnų, kad kiekvienas, kuris juo tiki, nepražūtų, bet turėtų amžiną gyvenimą. (Jono 3:16 TPV)
+\ipq Jono 3:16 Nes Dievas taip mylėjo pasaulį, jog davė savo viengimį Sūnų, kad kiekvienas, kuris juo tiki, nepražūtų, bet turėtų amžiną gyvenimą. (TPV2022)
 \is1 Use of translation title and abbreviation.
 \ip We respectfully request that if you make changes to this work, that you would publish your edition with a different title and would not use the title „Tikinčiųjų paveldo vertimas“ nor the abbreviation “TPV”. Thank you.
 \is1 License
@@ -46,12 +45,12 @@
 \is2 You are free to:
 \ili \bd Share\bd* — copy and redistribute the material in any medium or format
 \ili \bd Adapt\bd* — remix, transform, and build upon the material for any purpose, even commercially.
-\ip And
-\ili The licensor cannot revoke these freedoms as long as you follow the license terms.
 \is2 Under the following terms:
 \ili \bd Attribution\bd* — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 \ili \bd ShareAlike\bd* — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 \ili \bd No additional restrictions\bd* — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+\b
+\ili The licensor cannot revoke these freedoms as long as you follow the license terms.
 \is Additional information from “eBible.org”
 \ip Pictures included with Scriptures and other documents on this site are licensed only for use with those Scriptures and documents. For other uses, please contact the respective copyright owners.
 \ip Note that in addition to the rules above, revising and adapting God's Word involves a great responsibility to be true to God's Word. See Revelation 22:18-19.
